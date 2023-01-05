@@ -7,6 +7,8 @@ Linkedin - https://www.linkedin.com/in/xlaki/
 
 ### CS50's Introduction to Programming with Python 
 
+**FINAL PROJECT** - https://github.com/LakiDIV/downTube
+
 **COMPLETED** on DECEMBER 2022
 
 <img alt="CS50p completion certificate" src="https://certificates.cs50.io/5010053f-5b8c-49ae-956b-4b58eb24171e.png?size=A4" width="600">
